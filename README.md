@@ -1,4 +1,4 @@
-# breaktheschyme
+# BreakTheSchyme
 
 ## Description
 
